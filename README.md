@@ -4,7 +4,7 @@
 --------------------------------------
 [Description](#Description)
 
-[License](#License)
+[Presentation](#Presentation)
 
 [Installation](#Installation)
 
@@ -24,36 +24,42 @@
 --------------------------------------
 
 ## Description
-An online store to sell suckers, i mean customers, luxury yachts. A perfect sustainable buisness.
+An online e-commerce shop developed to sell luxury yachts, and other sea-vessels! React front-end, a GraphQL, Node.js and Express.js server, and a MongoDB and Mongoose ODM for the database.
+
+Queries and mutations are used for retrieving, adding, updating and deleting data.
+
+## Presentation Outline
 
 https://docs.google.com/presentation/d/1UO_6hElTtrU5ra7aMADO_aeFsdXNLTBU8r0NgXHpa6s/edit#slide=id.p
 
-## License
 
-## Installation
-node.js
-React
-Heroku
+## Installation 
 
-## Demo
+Once user is ready to install, clone the repo and run:
 
-## Testing
+`npm i`
+
 
 ## Future_Development
-Fixing the add to and remove from cart buttons
+
+Further updates to the Cart feature with the implementation of Stripe.
+
+PWA design considerations.
 
 ## Contributors
+
 Adam Campeau
 Daniel Yoshizawa
 Quinn Pucci
 Shelly Stone
 
 ## GitHub
+
 https://github.com/QuinnPucci/full-stack-ecommerce
 
 ## Contact
+
 sales@luxury.com
 
-## ScreenCastify Link
 
 ## Deployed Page
