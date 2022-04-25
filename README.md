@@ -1,10 +1,10 @@
-# full-stack-ecommerce
+# Boats Boats Boats!
 
 ## Table of Contents
 --------------------------------------
 [Description](#Description)
 
-[Presentation](#Presentation)
+[Goals](#Goals)
 
 [Installation](#Installation)
 
@@ -13,6 +13,8 @@
 [Testing](#Testing)
 
 [Future Development](#Future_Development)
+
+[Preview](#Preview)
 
 [Contributors](#Contributors)
 
@@ -24,14 +26,14 @@
 --------------------------------------
 
 ## Description
+
 An online e-commerce shop developed to sell luxury yachts, and other sea-vessels! React front-end, a GraphQL, Node.js and Express.js server, and a MongoDB and Mongoose ODM for the database.
 
 Queries and mutations are used for retrieving, adding, updating and deleting data.
 
-## Presentation Outline
+## Goals
 
-https://docs.google.com/presentation/d/1UO_6hElTtrU5ra7aMADO_aeFsdXNLTBU8r0NgXHpa6s/edit#slide=id.p
-
+Our e-commerce site provides a one-stop-shop for all luxury yacht aficionados! A mock-shopping site with a very functional React based interface, which displays new products, allows users to add and remove to their cart, and has a clean, modern UI.
 
 ## Installation 
 
@@ -45,6 +47,10 @@ Once user is ready to install, clone the repo and run:
 Further updates to the Cart feature with the implementation of Stripe.
 
 PWA design considerations.
+
+## Preview
+
+[![image.png](https://i.postimg.cc/63DNTjtZ/image.png)](https://postimg.cc/mzNn5ScZ)
 
 ## Contributors
 
